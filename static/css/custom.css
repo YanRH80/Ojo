@@ -1,0 +1,24 @@
+.cp__sidebar-help-btn {
+  display: none;
+}
+
+body {
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 1.5;
+  background-color: #282a36;
+  text-align: justify;
+  font-family: "EB Garamond"; 
+}
+  
+h1.title,
+.ls-block h1,
+.ls-block h2,
+.ls-block h3,
+.ls-block h4,
+.ls-block h5,
+.ls-block h6 {
+  font-weight: 400;
+}
+.references.mt-6.flex-1.flex-row{ /*hide linked and unlinked references*/
+  display: none;
